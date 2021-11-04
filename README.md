@@ -1,2 +1,2 @@
 # Hello-world
-following the tutorial
+following the tutorial, hopefully this will be th first of many great projects ahead of me
